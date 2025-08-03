@@ -123,3 +123,5 @@ python3 "vpn gate.py"
 ## 🤝 با تشکر از
 
 - پروژه [VPN Gate](https://www.vpngate.net/)
+
+version beta 

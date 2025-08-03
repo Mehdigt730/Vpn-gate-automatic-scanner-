@@ -29,9 +29,9 @@ With a single command, get working `.ovpn` configs with latency checks — perfe
 
 ## ⚡️ Usage
 
-```bash
-git clone https://github.com/Mehdigt730/vpngate-fast-fetcher.git
-cd vpngate-fast-fetcher
+```
+git clone https://github.com/Mehdigt730/Vpn-gate-automatic-scanner-.git
+cd Vpn-gate-automatic-scanner-
 python3 "vpn gate.py"
 ```
 
@@ -92,9 +92,9 @@ python3 "vpn gate.py"
 
 ## ⚡️ روش اجرا
 
-```bash
-git clone https://github.com/Mehdigt730/vpngate-fast-fetcher.git
-cd vpngate-fast-fetcher
+```
+git clone https://github.com/Mehdigt730/Vpn-gate-automatic-scanner-.git
+cd Vpn-gate-automatic-scanner-
 python3 "vpn gate.py"
 ```
 

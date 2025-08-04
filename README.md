@@ -1,4 +1,4 @@
-# Vpn-gate-automatic-scanner-
+# Vpn-gate-automatic-scanner
 
 # 🌐 VPN Gate Fast Server Fetcher
 
